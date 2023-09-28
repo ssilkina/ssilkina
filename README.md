@@ -25,5 +25,8 @@
 *[Portfolio Website]()
 *[GitHub]()
 
+## Dept of Design
+*[](https://www.ewu.edu/cstem/design/)
+
 
 
