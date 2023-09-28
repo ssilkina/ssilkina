@@ -26,7 +26,7 @@
 *[GitHub]()
 
 ## Dept of Design
-*[](https://www.ewu.edu/cstem/design/)
+*[Design Degree](https://www.ewu.edu/cstem/design/)
 
 
 
