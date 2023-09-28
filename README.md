@@ -1,4 +1,4 @@
-![Fun gif](https://media.giphy.com/media/VGG8UY1nEl66Y/giphy.gif)
+![Fun gif](adventure gif.webp)
 
 # Svetlana Silkina
 
