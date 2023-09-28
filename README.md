@@ -1,4 +1,4 @@
-![Fun gif](adventure gif.webp)
+![Fun gif](adventuregif.webp)
 
 # Svetlana Silkina
 
